@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-17)
+## Unreleased (2025-04-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`75a9153`](https://github.com/stdlib-js/stdlib/commit/75a91539fb7b08511c4101dce8fcdecce3ac64ae) - **chore:** re-enable lint rule _(by Athan Reines)_
 -   [`f531035`](https://github.com/stdlib-js/stdlib/commit/f5310359b25d271f6185c8101986d1e881cedbf0) - **feat:** add C implementation for `stats/base/dists/frechet/mean`   [(#4368)](https://github.com/stdlib-js/stdlib/pull/4368) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
 -   [`27bcbf6`](https://github.com/stdlib-js/stdlib/commit/27bcbf6b931385008c1210cddb77be5c86b6d94c) - **chore:** directly draw from desired distribution and tweak ranges _(by Philipp Burckhardt)_
@@ -49,8 +50,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
