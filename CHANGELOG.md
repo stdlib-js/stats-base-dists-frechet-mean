@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1f33916`](https://github.com/stdlib-js/stdlib/commit/1f33916dfe5b3d36c0d07c268be7be7ba2dee234) - **chore:** add missing eps dependency so C examples compile _(by Philipp Burckhardt)_
 -   [`b039368`](https://github.com/stdlib-js/stdlib/commit/b039368dc397596a89242970f520ecc06259c3cd) - **bench:** add missing eps dependency so C benchmarks compile _(by Philipp Burckhardt)_
 -   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - **fix:** remove unused `eps` dependency from Frechet distribution manifests _(by Philipp Burckhardt)_
 -   [`75a9153`](https://github.com/stdlib-js/stdlib/commit/75a91539fb7b08511c4101dce8fcdecce3ac64ae) - **chore:** re-enable lint rule _(by Athan Reines)_
