@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-29)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b039368`](https://github.com/stdlib-js/stdlib/commit/b039368dc397596a89242970f520ecc06259c3cd) - **bench:** add missing eps dependency so C benchmarks compile _(by Philipp Burckhardt)_
 -   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - **fix:** remove unused `eps` dependency from Frechet distribution manifests _(by Philipp Burckhardt)_
 -   [`75a9153`](https://github.com/stdlib-js/stdlib/commit/75a91539fb7b08511c4101dce8fcdecce3ac64ae) - **chore:** re-enable lint rule _(by Athan Reines)_
 -   [`f531035`](https://github.com/stdlib-js/stdlib/commit/f5310359b25d271f6185c8101986d1e881cedbf0) - **feat:** add C implementation for `stats/base/dists/frechet/mean`   [(#4368)](https://github.com/stdlib-js/stdlib/pull/4368) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
