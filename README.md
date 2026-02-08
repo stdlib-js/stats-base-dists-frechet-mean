@@ -69,7 +69,7 @@ where `Γ` is the [gamma function][gamma-function].
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-mean@v0.3.1-deno/mod.js';
 ```
 
 #### mean( alpha, s, m )
@@ -143,7 +143,7 @@ y = mean( 1.0, -1.0, 2.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-mean@v0.3.1-deno/mod.js';
 
 var alpha;
 var m;
