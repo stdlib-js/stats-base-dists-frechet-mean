@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`7415f92`](https://github.com/stdlib-js/stdlib/commit/7415f928c881bee955c14f8929616d90ded724b8) - **test:** migrate `stats/base/dists/frechet/mean` to ULP-based assertions [(#14651)](https://github.com/stdlib-js/stdlib/pull/14651) _(by Athan Reines)_
 -   [`ac45b11`](https://github.com/stdlib-js/stdlib/commit/ac45b111df7cfa06bf92673d621b6e0d91ec0703) - **refactor:** use `main` as require alias in `stats/base/dists/frechet` [(#12260)](https://github.com/stdlib-js/stdlib/pull/12260) _(by Philipp Burckhardt)_
 -   [`2ab835f`](https://github.com/stdlib-js/stdlib/commit/2ab835f6d0b8721ef7e604d7fdced904bed91443) - **docs:** refactor to use `logEachMap` in examples [(#11485)](https://github.com/stdlib-js/stdlib/pull/11485) _(by Lokesh Ranjan)_
 -   [`f5199d6`](https://github.com/stdlib-js/stdlib/commit/f5199d619314724b7b0627f41aba3114b559cec8) - **bench:** update random value generation for `stats/base/dists/frechet` [(#10317)](https://github.com/stdlib-js/stdlib/pull/10317) _(by Lokesh Ranjan, Philipp Burckhardt)_
@@ -27,8 +28,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Lokesh Ranjan
 -   Philipp Burckhardt
 -   Shubham
